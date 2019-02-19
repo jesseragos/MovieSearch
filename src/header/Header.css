@@ -1,0 +1,18 @@
+header {
+  display: flex;
+  height: 80px;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 1px solid #ddd;
+  font-family: "Righteous", cursive;
+}
+
+header h1 {
+  font-size: 2rem;
+  color: #f44336;
+}
+
+.link {
+    cursor: pointer;
+    text-decoration: none;
+  }

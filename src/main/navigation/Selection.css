@@ -1,0 +1,26 @@
+.selection {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 40px;
+}
+
+.selection label {
+  margin-bottom: 10px;
+  color: #555;
+}
+
+.selection select {
+  max-width: 150px;
+  padding: 5px;
+  border: 1px #ddd solid;
+  border-radius: 20px;
+  background-color: #e6e6e6;
+  cursor: pointer;
+}
+
+.selection select:focus {
+  outline: none !important;
+  border: 1px #719ece solid;
+  box-shadow: 0 0 10px #719ece;
+  border-radius: 20px;
+}
