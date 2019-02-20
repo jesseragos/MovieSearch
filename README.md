@@ -4,6 +4,8 @@ A React app with React Router that allows to search movie list by criteria.
 
 This project utilizes [TMDB API](https://www.themoviedb.org) and was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+[Link](https://moviesearch-jesseragos.herokuapp.com/) for live demo.
+
 ### Requirements:
 1. [Node.js](https://nodejs.org/en/) is installed
 
