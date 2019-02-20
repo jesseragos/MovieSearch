@@ -1,4 +1,4 @@
-# MovieSearch
+# MovieSearch React app
 
 A React app with React Router that allows to search movie list by criteria.
 
@@ -15,7 +15,7 @@ This project utilizes [TMDB API](https://www.themoviedb.org) and was bootstrappe
 ```env
 REACT_APP_TMDB_API_KEY=<api_key>
 ```
-3. Run `npm install -g yarn` to install Yarn package manager.
+3. Run `npm install -g yarn` to install Yarn package manager if don't have yet.
 4. Run `yarn install` to download all dependencies from package.json.
 5. Run `yarn dev`.
 6. App will start automatically in a browser or visit the app manually at `localhost:3000`.
